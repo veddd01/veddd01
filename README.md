@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Machine Learning and Computer Vision projects<br>I’m looking to collaborate on Blockchain and cybersecurity applications<br>I’m looking for help with Research-oriented project development<br>I’m currently learning Advanced Data Structures and Algorithms ,Machine Learning model evaluation and tuning<br>
+I’m currently working on Machine Learning and Computer Vision projects<br>I’m looking for help with Research-oriented project development<br>I’m currently learning Advanced Data Structures and Algorithms ,Machine Learning model evaluation and tuning<br>
 
 
 ## 🌐 Socials:
