@@ -43,6 +43,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=veddd01&theme=radical&hide_border=false)
 
 ![](https://github-readme-stats-8dkywhx6u-vedants-projects-997f7889.vercel.app/api/top-langs/?username=veddd01&theme=radical&hide_border=false&layout=compact)
+
 ---
 
 ## 📈 Contribution Graph
