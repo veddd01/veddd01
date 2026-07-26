@@ -38,12 +38,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-8dkywhx6u-vedants-projects-997f7889.vercel.app/api?username=veddd01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats-8dkywhx6u-vedants-projects-997f7889.vercel.app/api?username=veddd01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400&v=2)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=veddd01&theme=radical&hide_border=false)
 
-![](https://github-readme-stats-8dkywhx6u-vedants-projects-997f7889.vercel.app/api/top-langs/?username=veddd01&theme=radical&hide_border=false&layout=compact)
-
+![](https://github-readme-stats-8dkywhx6u-vedants-projects-997f7889.vercel.app/api/top-langs/?username=veddd01&theme=radical&hide_border=false&layout=compact&cache_seconds=86400&v=2)
 ---
 
 ## 📈 Contribution Graph
