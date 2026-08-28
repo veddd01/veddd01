@@ -29,6 +29,7 @@ Currently strengthening **Data Structures & Algorithms** and building practical 
 - **[Creative Work Timestamp & Ownership Registry](https://github.com/veddd01/se_project)** — Full-stack registry using Flask, Streamlit, SQLite, RSA signatures, SHA-256 hashing, and SimHash similarity detection.
 - **[Futora — FIFA World Cup 2026 AI Companion](https://github.com/veddd01/fifa-prediction)** — Node.js/Express web application with SQLite-backed authentication, rate limiting, and Gemini-powered conversational AI.
 - **[Airport Management System](https://github.com/veddd01/Airport_managment_system)** — Oracle SQL/PLSQL database project covering relational schema design, constraints, triggers, stored procedures, and functions.
+- **[Machine Learning Coursework](https://github.com/veddd01/ML-assignment-1)** — Jupyter Notebook-based ML coursework covering data analysis, supervised learning, model evaluation, and experimentation.
 
 ## Competitive Programming
 
