@@ -8,29 +8,27 @@ Currently strengthening **Data Structures & Algorithms** and building practical 
 
 ## Tech Stack
 
-**Languages**
+**Languages & Data**
 - Python
-- C++
-- C
-- C#
 - JavaScript
-- MySQL / SQL
+- SQL / PL/SQL
+- HTML/CSS
 
-**Frameworks & Tools**
+**Frameworks, Libraries & Tools**
 - Flask
 - Streamlit
+- Node.js / Express
+- SQLite
+- Oracle Database
+- PyCryptodome
+- SimHash
 - Git
-- Godot
-- Pandas
-- NumPy
-- Scikit-learn
 
-## Featured Projects
+## Selected Projects
 
 - **[Creative Work Timestamp & Ownership Registry](https://github.com/veddd01/se_project)** — Full-stack registry using Flask, Streamlit, SQLite, RSA signatures, SHA-256 hashing, and SimHash similarity detection.
-- **[Futora — FIFA World Cup 2026 AI Companion](https://github.com/veddd01/fifa-prediction)** — Web application with a Node.js/Express backend, SQLite persistence, authentication, rate limiting, and Gemini-powered conversational AI.
-- **[Airport Management System](https://github.com/veddd01/Airport_managment_system)** — Oracle SQL/PLSQL database project covering schema design, relationships, triggers, stored procedures, functions, and data integrity.
-- **[Human Activity Recognition](https://github.com/veddd01/Human-Activity-Recognition-HAR)** — Machine-learning project focused on human activity classification from sensor data.
+- **[Futora — FIFA World Cup 2026 AI Companion](https://github.com/veddd01/fifa-prediction)** — Node.js/Express web application with SQLite-backed authentication, rate limiting, and Gemini-powered conversational AI.
+- **[Airport Management System](https://github.com/veddd01/Airport_managment_system)** — Oracle SQL/PLSQL database project covering relational schema design, constraints, triggers, stored procedures, and functions.
 
 ## Competitive Programming
 
