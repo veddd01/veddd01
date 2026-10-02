@@ -1,4 +1,4 @@
-# Vedant Singh 👋
+# Vedant👋
 
 ### Computer Science Engineering @ Thapar Institute of Engineering & Technology
 **Software Engineering • AI/ML • Computer Vision • Cybersecurity**
